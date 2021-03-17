@@ -1,6 +1,6 @@
 def somar(x,y):
     """ docstring qq"""
-    return (x*y)
+    return (x+y)
 
 
 

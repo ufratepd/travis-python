@@ -5,6 +5,5 @@ python:
 script:
   - pytest test.py
 
-after_script:
 notifications:
   email: klissiomara@gmail.com
