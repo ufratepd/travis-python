@@ -2,10 +2,10 @@ from Calc import somar
 from Calc import subtrair
 
 def test_subtrair():
-    assert subtrair(4,2) == 2
+    assert subtrair(4,2) == 4
 
 def test_somar():
-    assert somar(2,4) == 6
+    assert somar(2,4) == 4
 
 def test_print():
     assert "kli" == "kli"
